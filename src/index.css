@@ -1,0 +1,11 @@
+.h100{
+  height: calc(100vh - 64px);
+}
+body{
+  margin: 0;
+}
+.eventItem{
+  font-size: medium;
+  color: blueviolet;
+ 
+}
